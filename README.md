@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Najjuma Darlene 👋
 
-<!--
-**darlenelisa/darlenelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Systems & Technology | Cybersecurity | Open Source
 
-Here are some ideas to get you started:
+I'm a final-year Bachelor of Information Systems and Technology student at Makerere University, with a strong interest in cybersecurity, systems and network administration, databases, and open-source technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building practical projects, solving technical problems, and contributing to collaborative technology communities.
+
+## 🔐 Areas of Interest
+
+- Cybersecurity & Digital Security
+- Network & Systems Administration
+- Open Source Software
+- Databases & Data Management
+- IT Infrastructure
+- Python & Web Development
+
+## 🛠️ Technologies & Tools
+
+**Programming & Web**
+- Python
+- PHP
+- JavaScript
+- HTML/CSS
+
+**Databases**
+- PostgreSQL
+- MariaDB
+- MySQL
+- SQL
+
+**Systems & Networking**
+- Windows Server
+- Linux
+- Network Administration
+- Wireshark
+- Nmap
+
+**Security**
+- Ethical Hacking
+- Network Security
+- Digital Forensics
+- Burp Suite
+- Metasploit
+
+## 🌍 Open Source
+
+I am actively building my experience in open-source software development, collaboration, and community contribution.
+
+## 📌 Current Focus
+
+- Building practical cybersecurity and networking projects
+- Contributing to open-source projects
+- Strengthening my software development skills
+- Learning through real-world technical problems
+
+## 📫 Connect With Me
+
+- Email: darllisanajjuma@gmail.com
+- LinkedIn: Coming soon
